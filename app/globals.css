@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    padding-top: 100px;
+    background: rgba(14,125,233,0.3);
+}
+.heroImg{
+    background-image: url("../public/assets/walnutLogo.png");
+}
+
+.uploaderImg {
+    background-image: url('../public/assets/uploadeIcon.png');
+}
